@@ -4,8 +4,8 @@
 
 ### 🔗 Links Rápidos
 
-* **Aula 01:** [Introdução a Banco de dados]() 📄
+* **Aula 01:** [Introdução a Banco de dados](https://gamma.app/docs/Banco-de-Dados-Fundamentos-e-Arquiteturas-3wsu3nhez2l54mb) 📄
 * **Aula 02:** *Em breve...*
 
 ---
-<sub>Mantido por [Cintia Pinho](https://gamma.app/docs/Banco-de-Dados-Fundamentos-e-Arquiteturas-3wsu3nhez2l54mb)</sub>
+
