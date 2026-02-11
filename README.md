@@ -8,4 +8,4 @@
 * **Aula 02:** *Em breve...*
 
 ---
-<sub>Mantido por [Cintia Pinho]([https://github.com/cintiapinho](https://gamma.app/docs/Banco-de-Dados-Fundamentos-e-Arquiteturas-3wsu3nhez2l54mb))</sub>
+<sub>Mantido por [Cintia Pinho](https://gamma.app/docs/Banco-de-Dados-Fundamentos-e-Arquiteturas-3wsu3nhez2l54mb)</sub>
