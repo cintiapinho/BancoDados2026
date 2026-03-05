@@ -5,7 +5,7 @@
 ### 🔗 Links Rápidos
 
 * **Aula 01:** [Introdução a Banco de dados](https://gamma.app/docs/Banco-de-Dados-Fundamentos-e-Arquiteturas-3wsu3nhez2l54mb) 📄
-* **Aula 02:** *Em breve...*
+* **Aula 02:** [Modelagem de Banco de Dados](https://gamma.app/docs/Relacionamentos-em-Banco-de-Dados-MER-e-DER-dl65ve2zizfmbh5)  📄
 
 ---
 
