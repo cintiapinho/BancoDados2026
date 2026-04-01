@@ -8,6 +8,6 @@
 * **Aula 02:** [Modelagem de Banco de Dados](https://gamma.app/docs/Relacionamentos-em-Banco-de-Dados-MER-e-DER-dl65ve2zizfmbh5)  📄
 
 ## Exercícios
-* **Aula 02:** [Exercícios] (https://docs.google.com/document/d/1AIlgHOaQvoDHCqGZexQ1Wqv8AyfTiD7-F2GhvkUknmE/edit?usp=sharing) 📄
+* **Aula 03:** [Exercícios] (https://docs.google.com/document/d/1AIlgHOaQvoDHCqGZexQ1Wqv8AyfTiD7-F2GhvkUknmE/edit?usp=sharing) 📄
 ---
 
