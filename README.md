@@ -11,3 +11,10 @@
 * **Aula 03:** [Exercícios] (https://docs.google.com/document/d/1AIlgHOaQvoDHCqGZexQ1Wqv8AyfTiD7-F2GhvkUknmE/edit?usp=sharing) 📄
 ---
 
+## Lista de Exercícios de Modelagem
+---
+# Imobiliária Conceitual: https://app.brmodeloweb.com/#!/publicview/69b2957e25dde5c84617f39a
+----
+Conceitual Escola: https://app.brmodeloweb.com/#!/publicview/69d6b27ede33eeb5ddb595d6
+Lògico Escola: https://app.brmodeloweb.com/#!/publicview/69d6b297de33eeb5ddb595e1
+
