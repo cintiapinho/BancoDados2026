@@ -12,4 +12,14 @@
 ---
 
 
+### Atividade de Modelagem
+
+## Escola
+* Conceitual escola: https://app.brmodeloweb.com/#!/publicview/69d6b27ede33eeb5ddb595d6
+* Lógico escola: https://app.brmodeloweb.com/#!/publicview/69d6b297de33eeb5ddb595e1
+
+## Imobiliária
+
+
+
 
