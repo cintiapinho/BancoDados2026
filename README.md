@@ -11,13 +11,13 @@
 * **Aula 03:** [Exercícios] (https://docs.google.com/document/d/1AIlgHOaQvoDHCqGZexQ1Wqv8AyfTiD7-F2GhvkUknmE/edit?usp=sharing) 📄
 ---
 
-### Tipos de Dadps
+### Tipos de Dados
 **Aula 03:** [Tipos de Dados](https://gamma.app/docs/Modelagem-de-Dados-no-MySQL-Atributos-e-Tipos-de-Dados-emtdfu15vemuv8o) 📄
 
-Aula de Tipos de Atributos e Tipos de dados no Mysql
-https://gamma.app/docs/Modelagem-de-Dados-no-MySQL-Atributos-e-Tipos-de-Dados-emtdfu15vemuv8o
-Comandos DDL, DML e DQL
-https://gamma.app/docs/Introducao-aos-comandos-DDL-e-DML-0e6wr9wyxz676uq
+## Comandos DDL e DML
+**Aula 04:** [Comandos DDL e DML](https://gamma.app/docs/Introducao-aos-comandos-DDL-e-DML-0e6wr9wyxz676uq) 📄
+
+
 
 
 
