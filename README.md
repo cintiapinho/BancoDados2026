@@ -18,7 +18,7 @@
 **Aula 04:** [Comandos DDL e DML](https://gamma.app/docs/Introducao-aos-comandos-DDL-e-DML-0e6wr9wyxz676uq) 📄
 
 ## Atividade Retorno Recesso
-**Aula 05:** [Relembrando comandos DML]([https://gamma.app/docs/Introducao-aos-comandos-DDL-e-DML-0e6wr9wyxz676uq](https://docs.google.com/presentation/d/1hsdYYS_-MQcYeiHp4dCOc5n2Lj23T-Fw/edit?usp=sharing&ouid=110602137370820731558&rtpof=true&sd=true)) 📄
+**Aula 05:** [Relembrando comandos DML]([https://gamma.app/docs/Introducao-aos-comandos-DDL-e-DML-0e6wr9wyxz676uq](https://docs.google.com/presentation/d/1hsdYYS_-MQcYeiHp4dCOc5n2Lj23T-Fw/edit?usp=sharing&ouid=110602137370820731558&rtpof=true&sd=true) 📄
 
 ## Normalização de Dados
 
